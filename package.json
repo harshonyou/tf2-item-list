@@ -1,0 +1,22 @@
+{
+  "name": "tf2-item-list",
+  "version": "1.0.0",
+  "description": "Complete Team Fortress 2 Item Definition Indexes",
+  "main": "tf2Items.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshonyou/tf2-item-list.git"
+  },
+  "author": "Harsh Mohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshonyou/tf2-item-list/issues"
+  },
+  "homepage": "https://github.com/harshonyou/tf2-item-list#readme"
+}
