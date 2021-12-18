@@ -1,6 +1,6 @@
 {
   "name": "tf2-item-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Complete Team Fortress 2 Item Definition Indexes",
   "main": "tf2Items.js",
   "directories": {
